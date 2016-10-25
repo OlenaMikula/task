@@ -1,15 +1,15 @@
-.tablica { 
+.table { 
     background: #D8D8D8; 
     text-align: center; 
     padding: 30px; 
     color: #004d80; 
 } 
-.tablica_1 { 
+.table_1 { 
     background: #003cb3; 
     color: white; 
     padding: 10px; 
 } 
-.tablica_1 h1 { 
+.table_1 h1 { 
     margin-top: 0px; 
 } 
 .wrapper_1 { 
