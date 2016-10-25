@@ -1,0 +1,55 @@
+.tablica { 
+    background: #D8D8D8; 
+    text-align: center; 
+    padding: 30px; 
+    color: #004d80; 
+} 
+.tablica_1 { 
+    background: #003cb3; 
+    color: white; 
+    padding: 10px; 
+} 
+.tablica_1 h1 { 
+    margin-top: 0px; 
+} 
+.wrapper_1 { 
+    margin-bottom: 20px; 
+    float: left; 
+    padding: 5px; 
+} 
+.wrapper_2 { 
+    margin-top: -60px;
+    margin-bottom: 20px; 
+    float: left; 
+    padding: 5px; 
+} 
+.lorem { 
+    float: left; 
+    display: inline; 
+    padding: 20px; 
+    font-size:15px; 
+} 
+.lorem h2 { 
+    padding-bottom: 10px; 
+    border-bottom: 2px solid black; 
+    color: #004d80; 
+} 
+.lorem h3 { 
+    padding-bottom: 10px; 
+    border-bottom: 2px solid black; 
+    color: #004d80; 
+}
+.lorem p {
+    width: 180px;
+}
+.lorem_text {
+    margin-top: 40px;
+    margin-left: 221px; 
+}
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: sans-serif;
+}
+
+
